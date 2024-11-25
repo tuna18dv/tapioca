@@ -11,6 +11,7 @@
 Tapioca makes it easy to work with [Sorbet](https://sorbet.org) in your codebase. It surfaces types and methods from many sources that Sorbet cannot otherwise see – such as gems, Rails and other DSLs – compiles them into [RBI files](https://sorbet.org/docs/rbi) and makes it easy for you to add gradual typing to your application.
 
 **Features**:
+test
 
 * Easy installation and configuration
 * Generation of RBI files for the gems used in your application
