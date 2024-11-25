@@ -17,6 +17,7 @@ Tapioca makes it easy to work with [Sorbet](https://sorbet.org) in your codebase
   * Automatic generation from your application's Gemfile
   * Importing of signatures from the source code of gems
   * Importing of documentation from the source code of gems
+  * tu
   * Synchronization validation for your CI
 * Generation of RBI files for various DSL patterns that relies on meta-programming
   * Automatic generation from your application's content
